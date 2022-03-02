@@ -1,0 +1,16 @@
+C:\Users\shnka\Desktop\BilgisayarGrafikleri\WinFormsApp2\bin\Debug\netcoreapp3.1\Izometrik3BCisim.exe
+C:\Users\shnka\Desktop\BilgisayarGrafikleri\WinFormsApp2\bin\Debug\netcoreapp3.1\Izometrik3BCisim.deps.json
+C:\Users\shnka\Desktop\BilgisayarGrafikleri\WinFormsApp2\bin\Debug\netcoreapp3.1\Izometrik3BCisim.runtimeconfig.json
+C:\Users\shnka\Desktop\BilgisayarGrafikleri\WinFormsApp2\bin\Debug\netcoreapp3.1\Izometrik3BCisim.runtimeconfig.dev.json
+C:\Users\shnka\Desktop\BilgisayarGrafikleri\WinFormsApp2\bin\Debug\netcoreapp3.1\Izometrik3BCisim.dll
+C:\Users\shnka\Desktop\BilgisayarGrafikleri\WinFormsApp2\bin\Debug\netcoreapp3.1\Izometrik3BCisim.pdb
+C:\Users\shnka\Desktop\BilgisayarGrafikleri\WinFormsApp2\obj\Debug\netcoreapp3.1\Izometrik3BCisim.csproj.AssemblyReference.cache
+C:\Users\shnka\Desktop\BilgisayarGrafikleri\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.Form1.resources
+C:\Users\shnka\Desktop\BilgisayarGrafikleri\WinFormsApp2\obj\Debug\netcoreapp3.1\Izometrik3BCisim.csproj.GenerateResource.cache
+C:\Users\shnka\Desktop\BilgisayarGrafikleri\WinFormsApp2\obj\Debug\netcoreapp3.1\Izometrik3BCisim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shnka\Desktop\BilgisayarGrafikleri\WinFormsApp2\obj\Debug\netcoreapp3.1\Izometrik3BCisim.AssemblyInfoInputs.cache
+C:\Users\shnka\Desktop\BilgisayarGrafikleri\WinFormsApp2\obj\Debug\netcoreapp3.1\Izometrik3BCisim.AssemblyInfo.cs
+C:\Users\shnka\Desktop\BilgisayarGrafikleri\WinFormsApp2\obj\Debug\netcoreapp3.1\Izometrik3BCisim.csproj.CoreCompileInputs.cache
+C:\Users\shnka\Desktop\BilgisayarGrafikleri\WinFormsApp2\obj\Debug\netcoreapp3.1\Izometrik3BCisim.dll
+C:\Users\shnka\Desktop\BilgisayarGrafikleri\WinFormsApp2\obj\Debug\netcoreapp3.1\Izometrik3BCisim.pdb
+C:\Users\shnka\Desktop\BilgisayarGrafikleri\WinFormsApp2\obj\Debug\netcoreapp3.1\Izometrik3BCisim.genruntimeconfig.cache
